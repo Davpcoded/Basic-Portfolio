@@ -1,0 +1,35 @@
+body {
+}
+
+.navbar-brand {
+  background-color: #42bebe;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.nav-link {
+  color: black;
+}
+
+.card-header {
+  color: #42bebe;
+  font-size: 60px;
+}
+
+#bodyCard {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+#cardText {
+  margin-top: 10px;
+  margin-right: 0px;
+}
+
+#AboutMePicture {
+  margin-top: 15px;
+  margin-left: 15px;
+}
