@@ -1,4 +1,14 @@
 body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz2WZPL0M_tAUo_odBak5IMz1rIuefsDqCRznGtOSM0j9CNYFw&usqp=CAU);
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.container-fluid {
+  padding: 0px;
 }
 
 .navbar-brand {
@@ -21,7 +31,7 @@ body {
 
 #bodyCard {
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 80px;
 }
 
 #cardText {
@@ -32,4 +42,12 @@ body {
 #AboutMePicture {
   margin-top: 15px;
   margin-left: 15px;
+}
+
+.footer-nav {
+  border-top: 10px solid #42bebe;
+}
+
+.disabled {
+  font-size: 20px;
 }
