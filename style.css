@@ -32,16 +32,21 @@ body {
 #bodyCard {
   margin-top: 100px;
   margin-left: 80px;
+  box-sizing: border-box;
 }
 
-#cardText {
+.first-text {
+  margin-top: 0px;
+}
+
+.second-text {
   margin-top: 10px;
-  margin-right: 0px;
 }
 
 #AboutMePicture {
-  margin-top: 15px;
+  margin-top: 0;
   margin-left: 15px;
+  margin-right: 20px;
 }
 
 .footer-nav {
