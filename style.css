@@ -1,5 +1,4 @@
 body {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz2WZPL0M_tAUo_odBak5IMz1rIuefsDqCRznGtOSM0j9CNYFw&usqp=CAU);
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
@@ -27,6 +26,7 @@ body {
 .card-header {
   color: #42bebe;
   font-size: 60px;
+  background-color: #ffffff;
 }
 
 #bodyCard {
@@ -50,4 +50,12 @@ body {
 
 .disabled {
   font-size: 20px;
+}
+
+.row {
+  margin: 0px;
+}
+
+.col-lg-12 {
+  padding: 0px;
 }
